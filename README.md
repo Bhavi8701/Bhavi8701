@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhavitha</h1>
-<h3 align="center">A passionate learner in Bioinformatics,Data science from India</h3>
+<h1 align="center">Hi 👋, I'm Bhavitha Bairapureddy</h1>
+<h3 align="center">A passionate learner in Bioinformatics, Data science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavi8701&label=Profile%20views&color=0e75b6&style=flat" alt="bhavi8701" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhavitha.bairapureddy@gmail.com**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **I am not funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
