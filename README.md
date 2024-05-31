@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavitha Bairapureddy</h1>
-<h3 align="center">A passionate learner in Bioinformatics, Data science </h3>
+<h3 align="center">A passionate learner in Structural Biology, Data science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavi8701&label=Profile%20views&color=0e75b6&style=flat" alt="bhavi8701" /> </p>
 
-- 🌱 I’m currently learning **Command line for bioinformatics**
-
-- 💬 Ask me about **Bioinformatics**
+- 💬 Ask me about **Structural biology**
 
 - 📫 How to reach me **bhavitha.bairapureddy@gmail.com**
 
