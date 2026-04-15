@@ -5,9 +5,7 @@
 
 - 💬 Ask me about **Structural biology**
 
-- 📫 How to reach me **bhavitha.bairapureddy@gmail.com**
-
-- ⚡ Fun fact **I am not funny :)**
+- 📫 How to reach me **bhavitha08.b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
