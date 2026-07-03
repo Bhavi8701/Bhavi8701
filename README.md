@@ -8,7 +8,6 @@ molecular dynamics simulation with scattering techniques.
 I like problems that sit between computation and experiment, where a simulation
 has to answer to real data.
 
----
 
 ### Currently working on
 
