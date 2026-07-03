@@ -1,28 +1,27 @@
-<h1 align="center">Hi 👋, I'm Bhavitha </h1>
-<h3 align="center"> A learner in Structural Biology </h3>
+# Bhavitha Bairapureddy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavi8701&label=Profile%20views&color=0e75b6&style=flat" alt="bhavi8701" /> </p>
+**PhD researcher · Integrative Structural Biology · Lund University**
 
-- 💬 Ask me about **Structural biology**
+I study how peptides interact with lipid membranes, combining
+molecular dynamics simulation with neutron and X-ray scattering. My current work
+asks a specific question: **does the *order* of amino acids in a sequence — not
+just its composition — govern how a peptide engages a membrane?** I use the
+antimicrobial peptide Histatin-5 and sequence-permuted variants to pull that
+apart, connecting all-atom MD to experimental neutron reflectometry through
+simulation-derived scattering-length-density profiles.
 
-- 📫 How to reach me **bhavitha08.b@gmail.com**
+I like problems that sit between computation and experiment, where a simulation
+has to answer to real data.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bhavitha-bairapureddy-a28285181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavitha bairapureddy" height="30" width="40" /></a>
-</p>
+---
+
 ### What I work on
- 
+
 - **Membrane biophysics** 
 - **Molecular dynamics** 
 - **Scattering** — SAXS, SANS, neutron reflectometry
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavi8701&show_icons=true&locale=en&layout=compact" alt="bhavi8701" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavi8701&show_icons=true&locale=en" alt="bhavi8701" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavi8701&" alt="bhavi8701" /></p>
-
+- 📧 bhavitha08.b@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhavitha-bairapureddy-a28285181)
 
