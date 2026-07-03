@@ -15,7 +15,7 @@ has to answer to real data.
 - **Molecular dynamics** 
 - **Scattering** — SAXS, SANS, neutron reflectometry
 
-
+### Find me 
 - 📧 bhavitha08.b@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavitha-bairapureddy-a28285181)
 
